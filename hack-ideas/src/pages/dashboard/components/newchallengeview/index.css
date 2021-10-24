@@ -1,0 +1,10 @@
+.itoast{
+    position: absolute;
+    z-index: 1;
+    right: 0px;
+    padding: 10px;
+    background-color:var(--bs-green);
+}
+.pos{
+    position: relative;
+}
