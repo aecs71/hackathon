@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory i.e inside hack-ideas folder, you can run:
 ### `npm install`
 This will install the reuired dependencies
 
